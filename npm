@@ -1,1 +1,6 @@
-npm i discord.js --save
+var builder =  تتطلب ( ' xmlbuilder ' )؛
+var xml =  باني . إنشاء ( " الجذر " )
+  . ele ( ' xmlbuilder ' )
+    . ele ( ' repo ' ، { ' type ' :  ' git ' }، ' git: //github.com/oozcitak/xmlbuilder-js.git ' )
+  . end ({pretty :  true })؛
+
